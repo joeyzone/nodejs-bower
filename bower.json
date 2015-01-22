@@ -1,0 +1,25 @@
+{
+  "name": "bowerfun",
+  "version": "0.0.2",
+  "description": "funfun",
+  "main": "abc",
+  "keywords": [
+    "sdjs"
+  ],
+  "authors": [
+    "lujun"
+  ],
+  "license": "no",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.7.2"
+  }
+}
